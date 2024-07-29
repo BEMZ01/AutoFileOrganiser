@@ -1,0 +1,2 @@
+# AutoFileOrganiser
+This is a python script that auto-magically organizes files in a directory based on AI interpretation. Using OpenAI and Ollama, the script can identify the type of file and move it to the appropriate folder or catagory.
